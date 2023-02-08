@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/revin-dennis-ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revin-dennis-ramadhan" height="30" width="40" /></a>
 <a href="https://instagram.com/revindr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="revindr21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/revinramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="revinramadhan" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/revin212" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--U6E1tTP8--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1390/f6c7428b-c890-4c97-a586-352a887caad6.png" alt="revinramadhan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
