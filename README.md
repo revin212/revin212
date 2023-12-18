@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revin212&label=Profile%20views&color=0e75b6&style=flat" alt="revin212" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS, Entity Framework, Docker**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-revin.vercel.app/](https://portfolio-revin.vercel.app/)
 
-- 💬 Ask me about **React JS, Tailwind CSS, Front End Website Development**
+- 💬 Ask me about **React JS, Tailwind CSS, Material UI, ASP.NET Core, MySQL, Website Development**
 
-- 📫 How to reach me **revinramadhan@gmail.com**
+- 📫 How to reach me **revinramadhan21@gmail.com**
 
 - ⚡ Fun fact **I play Bass Guitar**
 
