@@ -2,7 +2,7 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="webdev" />
 </p>
 <h1 align="center">Hi 👋, I'm Revin Dennis Ramadhan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revin212&label=Profile%20views&color=0e75b6&style=flat" alt="revin212" /> </p>
