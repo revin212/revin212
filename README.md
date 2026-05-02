@@ -51,9 +51,5 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=revin212&show_icons=true&locale=en" alt="revin212" /></p>
-
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revin212&" alt="revin212" /></p>
 
